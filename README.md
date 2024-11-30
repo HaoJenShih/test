@@ -8,4 +8,10 @@ second change
 =======
 third change
 fourth change
+<<<<<<< HEAD
 >>>>>>> 4ecafa1c4aadc7434cdbb0f124b33433154442a4
+=======
+--------------
+fifth change
+changed by HJS
+>>>>>>> 8f9c59b25840cb6c0ded6386d3397df01bcf5fbf
